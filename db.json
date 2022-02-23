@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "backGround": "img/incense-sticks-6537296.jpg",
+      "id": 1,
+      "name": "Trải nghiệm làm hương thủ công cùng người bản địa",
+      "description": "Mọi người có thể tham gia vào quá trình làm hương thủ công cùng người bản địa từ việc chuẩn bị nguyên liệu cho tới thành thành phẩm tới tay người sử dụng"
+    },
+    {
+      "backGround": "img/pexels-leung-kwok-tung-ktleung-3054187.jpg",
+      "name": "Đánh cá cùng ngư dân",
+      "description": "Mọi người sẽ cùng ngu dân ra khơi và trải nghiệm việc đánh bắt hải sản .Chắc hẳn đây sẽ là trải nghiệm thú vị của mọi người",
+      "id": 2
+    },
+    {
+      "backGround": "img/pho-co-ha-noi-nemtv1.jpg",
+      "name": "Trải nghiệm Phố Cổ Hà Nội",
+      "description": "Tây Bắc Bộ không chỉ nổi tiếng bởi thiên nhiên hùng vĩ, nét đẹp văn hoá độc đáo mà còn là “miền đất hứa” của nhiều đặc sản Tây Bắc thơm ngon",
+      "id": 3
+    },
+    {
+      "backGround": "img/cheothuyen.jpg",
+      "name": "QUY NHƠN",
+      "description": "Kayaking là một môn thể thao thú vị sử dụng thuyền kayak để di chuyển trên mặt nước, cùng với sự trợ giúp của một mái chèo hai cánh. Kayaking khác với chèo thuyền canoe ở vị trí ngồi của người chèo thuyền.",
+      "id": 4
+    },
+    {
+      "backGround": "img/dalat.jpg",
+      "name": "ĐÀ LẠT",
+      "description": "Đến với thành phố hoa đầu tiên các bạn cần phải trải nghiệm thử. Những khoảnh khắc săn mây làm ta lơ lẫn thẩn thờ như đang trên không trung. Cùng hòa quyện vào tinh hoa của đất trời, của thiên nhiên vừa ảo diệu mơ màng vừa bí ẩn. Đến nổi ta muốn bức phá hết tất cả như phép màu nhiệm đang thử thách chúng ta.",
+      "id": 5
+    },
+    {
+      "backGround": "img/danag.jpg",
+      "name": "DA NANG",
+      "description": "Phố cổ Hội An là một thành phố nổi tiếng của tỉnh Quảng Nam, một phố cổ giữ được gần như nguyên vẹn với hơn 1000 di tích kiến trúc từ phố xá, nhà cửa, hội quán, đình, chùa, miếu, nhà thờ tộc, giếng cổ… đến các món ăn truyền thống, tâm hồn của người dân nơi đây.",
+      "id": 6
+    }
+  ]
+}
